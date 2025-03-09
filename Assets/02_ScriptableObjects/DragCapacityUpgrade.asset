@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fb06dc0b248524499adb7bc58a6b31, type: 3}
+  m_Name: DragCapacityUpgrade
+  m_EditorClassIdentifier: 
+  upgradeName: Gravity Grip
+  description: "Enhance your ship\u2019s pulling force, making object dragging faster
+    and easier."
+  icon: {fileID: 5476574212964250810, guid: 0b0e9904329f8e3458c263362f214192, type: 3}
+  maxLevel: 5
+  costs: 0f000000190000001e000000230000002d000000
+  type: 2
+  effectValues:
+  - 1.05
+  - 1.05
+  - 1.05
+  - 1.05
+  - 1.05

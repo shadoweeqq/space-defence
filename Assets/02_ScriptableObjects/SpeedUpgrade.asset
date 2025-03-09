@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fb06dc0b248524499adb7bc58a6b31, type: 3}
+  m_Name: SpeedUpgrade
+  m_EditorClassIdentifier: 
+  upgradeName: Thruster Overdrive
+  description: "Boost your ship\u2019s maximum speed for faster travel."
+  icon: {fileID: -2434733884970488131, guid: 0b0e9904329f8e3458c263362f214192, type: 3}
+  maxLevel: 4
+  costs: 140000001e0000003200000064000000
+  type: 0
+  effectValues:
+  - 1
+  - 1
+  - 1
+  - 1

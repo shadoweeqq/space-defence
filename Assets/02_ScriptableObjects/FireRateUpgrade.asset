@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0fb06dc0b248524499adb7bc58a6b31, type: 3}
+  m_Name: FireRateUpgrade
+  m_EditorClassIdentifier: 
+  upgradeName: Rapid Shooting
+  description: Decrease weapon cooldown time, allowing for a higher rate of fire.
+  icon: {fileID: -4383796592367140977, guid: e399a7ca792edcf4ab6a38be3309fb2e, type: 3}
+  maxLevel: 6
+  costs: 14000000320000005000000078000000a0000000d2000000
+  type: 3
+  effectValues:
+  - 0.05
+  - 0.05
+  - 0.05
+  - 0.05
+  - 0.05
+  - 0.05

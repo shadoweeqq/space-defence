@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9edddf5bc40454ea3aa48e7c6e754a, type: 3}
+  m_Name: tiny_asteroid_2
+  m_EditorClassIdentifier: 
+  asteroidPrefab: {fileID: 3317383383888566090, guid: 01232f953b528fb4490ebd9de7e8a388, type: 3}
+  health: 3
+  spawnAttempts: 1
+  spawnRolls:
+  - asteroidDataList: {fileID: 11400000, guid: 973d959f1918f114b8c7a6998fa00160, type: 2}
+    spawnChance: 0.12

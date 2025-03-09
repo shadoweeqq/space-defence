@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9edddf5bc40454ea3aa48e7c6e754a, type: 3}
+  m_Name: huge_asteroid
+  m_EditorClassIdentifier: 
+  asteroidPrefab: {fileID: 9210320977050998485, guid: b50de912457bbed46be1836eeb06ef20, type: 3}
+  health: 10
+  spawnAttempts: 1
+  spawnRolls:
+  - asteroidDataList: {fileID: 11400000, guid: f13013754f1360246ac59b39426d577b, type: 2}
+    spawnChance: 1
+  - asteroidDataList: {fileID: 11400000, guid: e56af1e6d625bf54cbdc9c1b08242c15, type: 2}
+    spawnChance: 1
+  - asteroidDataList: {fileID: 11400000, guid: e56af1e6d625bf54cbdc9c1b08242c15, type: 2}
+    spawnChance: 0.5
+  - asteroidDataList: {fileID: 11400000, guid: c24b98c229c4f244ab524b8c53e67f76, type: 2}
+    spawnChance: 0.5
+  - asteroidDataList: {fileID: 11400000, guid: f1d818f8be3cac545af7f35baadb5bdb, type: 2}
+    spawnChance: 0.5
+  - asteroidDataList: {fileID: 11400000, guid: 973d959f1918f114b8c7a6998fa00160, type: 2}
+    spawnChance: 0.3
+  - asteroidDataList: {fileID: 11400000, guid: 973d959f1918f114b8c7a6998fa00160, type: 2}
+    spawnChance: 0.3
+  - asteroidDataList: {fileID: 11400000, guid: 219e075515580bf4da364532690c4b5d, type: 2}
+    spawnChance: 0.3
+  - asteroidDataList: {fileID: 11400000, guid: 219e075515580bf4da364532690c4b5d, type: 2}
+    spawnChance: 0.3

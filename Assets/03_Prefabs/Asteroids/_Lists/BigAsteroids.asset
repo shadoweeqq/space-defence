@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eadef6c87e8d1a44afe8ef5e12bf633, type: 3}
+  m_Name: BigAsteroids
+  m_EditorClassIdentifier: 
+  asteroids:
+  - {fileID: 11400000, guid: fe26ed16c82c14240ba6ea751ca1f6ca, type: 2}

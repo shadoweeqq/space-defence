@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639fe06bc428fb34cbae6e51265b5724, type: 3}
+  m_Name: HitQuerySet
+  m_EditorClassIdentifier: 
+  audioQueries:
+  - {fileID: 11400000, guid: 716cf56a7dcf47f42a83bf9b7e56e70c, type: 2}
+  - {fileID: 11400000, guid: 2af922363e148dc4dbf7b5ff9f658dc3, type: 2}
+  - {fileID: 11400000, guid: 8896fe617114d244b993be10f746d849, type: 2}
+  - {fileID: 11400000, guid: 43d5a2603e941664789a482061bde0c5, type: 2}
+  - {fileID: 11400000, guid: 3399b34d9fa443945a2c34fcb64da9d5, type: 2}
+  - {fileID: 11400000, guid: 36b56d57b25a1d54990ee2b1bfb04734, type: 2}
+  - {fileID: 11400000, guid: 382f4c16a41baba4babb001595df5c95, type: 2}
